@@ -1,26 +1,43 @@
 # React + TypeScript Interview Questions
 
-This repository contains curated React + TypeScript interview problems along with detailed explanations and sample solutions.
+A curated, growing repository of real-world technical interview questions and detailed solutions, organized by framework & programming language.
 
-## Contents
+## 🗂 Structure
 
-- Pagination with API data and page controls
-- Custom hooks (window resize, API calls, debounce)
-- UI components (todo list, tabs with pagination)
-- Recursive algorithms and more
+- Each main folder (such as `react-questions`) contains markdown files, one per interview question.
+- Questions will be grouped by technology—add more folders like `angular-questions`, `javascript-questions`, or `node-questions` as the collection grows.
 
-## Usage
+## 📄 Contents
 
-Each question is documented inside `/questions` with explanation and code snippets.
+- Practical coding interview problems
+- Step-by-step explanations and multiple approaches (brute force to optimized)
+- Code samples, complexity analysis, and interviewer tips
+- No compiled code or dependencies—just markdown for easy reading & sharing
 
-Optional runnable React components (for some questions) live in `/src`.
+## 🚀 Getting Started
 
-## Setup
+Simply browse folders and open `.md` files for each question and its detailed breakdown.  
+No installation or setup required!
 
-```git clone YOUR_REPO_URL
-cd react-interview-questions
-npm install # if you have React projects here
-npm start # to run React apps (optional)
+## 📝 How to Contribute
+
+- Add or improve questions by opening a PR.
+- Organize new questions in relevant framework/language folders.
+- Keep explanations clear and examples runnable.
+
+## 📚 Example Folder Structure
+
+```
+/
+├─ react-questions/
+│  ├─ 01-pagination.md
+│  ├─ 02-window-resize-hook.md
+│  └─ ...
+├─ .gitignore
+├─ README.md
 ```
 
-Contributions welcome!
+---
+
+Good luck prepping and sharing!  
+Feel free to tailor this README as your collection grows and you add further languages or frameworks.
