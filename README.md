@@ -39,5 +39,4 @@ No installation or setup required!
 
 ---
 
-Good luck prepping and sharing!  
-Feel free to tailor this README as your collection grows and you add further languages or frameworks.
+Good luck prepping and sharing!
